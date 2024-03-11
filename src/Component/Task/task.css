@@ -1,0 +1,10 @@
+
+
+.taskflx{
+    background-color: aqua;
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid rgb(90, 220, 15);
+    display: flex;
+    justify-content: space-evenly;
+}

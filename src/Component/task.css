@@ -1,0 +1,13 @@
+
+.items{
+    background-color: rgb(14, 198, 198);
+    border: 2px solid black;
+    margin: 20px;
+}
+.itemPriceClrZ{
+    color: red;
+}
+.itemPriceClrNZ{
+    color: blueviolet;
+}
+
